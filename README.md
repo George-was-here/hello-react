@@ -1,3 +1,3 @@
 # Hello React
 
-This repository contains the starter code for a Lighthouse Labs coding challenge.
+This repository contains my solution for a Lighthouse Labs coding challenge.
